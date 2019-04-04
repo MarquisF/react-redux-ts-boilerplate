@@ -1,0 +1,6 @@
+enum ActionTypeKeys {
+  DOCUMENTS_CHANGE_NAME = 'DOCUMENTS_CHANGE_NAME',
+  DOCUMENTS_CHANGE_LIST = 'DOCUMENTS_CHANGE_LIST'
+}
+
+export default ActionTypeKeys;
