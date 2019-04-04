@@ -1,4 +1,5 @@
-Not currently available!!
+## A boilerplate of react, redux, typescript, immutable.js
+### Not currently available!!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
